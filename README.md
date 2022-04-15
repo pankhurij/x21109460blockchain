@@ -1,4 +1,4 @@
-Requirements for Assignment : 
+Requirements for Assignment : <br/>
 create an ethereum account :  This is completed inside metamask (12 words, create an account, fund with Ropsten ether
 Create an ERC20-compliant, fixed-supply tohken using open zeppelin contract
 Deply to Ropsten : deploying using injected web3 and metamask
